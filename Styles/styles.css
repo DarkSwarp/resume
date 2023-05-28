@@ -59,9 +59,9 @@ body {
 .about-me {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #000;
     margin: 0;
 }
 
@@ -89,7 +89,7 @@ body {
 .project-item {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 
@@ -97,9 +97,9 @@ body {
 .project-link {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #000;
 }
 
 .project-link:hover, 
@@ -131,9 +131,9 @@ body {
 .education-period {
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 15px;
-    color: #a8a8a8;
+    color: #595959;
     margin-bottom: 10px;
 }
 
@@ -144,9 +144,9 @@ body {
 .work-list {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #000;
     padding: 0px;
     margin-left: 15px;
 }
@@ -154,7 +154,7 @@ body {
 .work-item {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 
@@ -221,7 +221,7 @@ body {
     color: #fff;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 .contacts-icon {
@@ -246,7 +246,7 @@ body {
     color: white;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 /* .tech-skills {
