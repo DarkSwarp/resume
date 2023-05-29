@@ -31,7 +31,7 @@ body {
 
 .main-content {
     background-color: #fff;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
     padding: 20px 90px;
 }
 
@@ -103,12 +103,10 @@ body {
     color: #000;
 }
 
-.project-link:hover, 
+.project-link:hover,
 .project-link:focus {
     color: #fb6d3a;
 }
-
-
 
 /* work style */
 
@@ -209,25 +207,20 @@ body {
 .languages {
     padding-left: 40px;
 }
-.contacts, .tech-skills, .soft-skills {
+.contacts,
+.tech-skills,
+.soft-skills {
     margin-bottom: 30px;
 }
 .contacts-list {
     list-style: none;
 }
 .contacts-item {
-    display: flex;
-    gap: 10px;
-    text-decoration: none;
     color: #fff;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-}
-.contacts-icon {
-    width: 20px;
-    height: 20px;
 }
 
 .contacts-item:hover,
