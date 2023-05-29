@@ -15,23 +15,17 @@ ul {
 img {
     display: block;
 }
-html {
-    width: 1200px;
-    height: 1697px;
-}
+
 body {
     font-family: "Montserrat", sans-serif;
     background-color: #fff;
-    width: 1200px;
-    height: 1697px;
-    margin: 0 auto;
 }
 
 .main {
     display: flex;
     flex-direction: row-reverse;
     width: 1200px;
-    height: 1697px;
+    height: 1650px;
     margin: 0 auto;
 }
 
