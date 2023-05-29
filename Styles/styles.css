@@ -15,10 +15,16 @@ ul {
 img {
     display: block;
 }
-
+html {
+    width: 1200px;
+    height: 1650px;
+}
 body {
     font-family: "Montserrat", sans-serif;
     background-color: #fff;
+    width: 1200px;
+    height: 1650px;
+    margin: 0;
 }
 
 .main {
