@@ -19,14 +19,13 @@ img {
 body {
     font-family: "Montserrat", sans-serif;
     background-color: #fff;
-    margin: 0;
 }
 
 .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 210mm;
-    height: 297mm;
+    width: 1200px;
+    height: 1650px;
     margin: 0 auto;
 }
 
